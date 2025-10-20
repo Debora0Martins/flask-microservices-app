@@ -3,8 +3,6 @@
 
 Aplicação Flask simples, Dockerizada, servindo como base para evoluir em um pipeline de CI/CD com GitHub Actions, além de futura orquestração em Kubernetes e deploy na AWS.
 
-Este projeto é a primeira entrega do meu portfólio de Engenharia de Software/DevOps.
-
 🛠️ Tecnologias usadas
 
 Python 3.11
